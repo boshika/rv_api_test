@@ -1,1 +1,5 @@
-{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}
+
+{"type": "enter", "door": "109", "empId": 1000}
+{"type": "enter", "door": "109", "empId": 1000}
+{"type": "enter", "door": "109", "empId": 1000}
+{"type": "enter", "door": "100", "empId": 1000}

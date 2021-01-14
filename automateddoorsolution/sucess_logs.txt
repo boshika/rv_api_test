@@ -1,0 +1,1 @@
+{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}{"type": "enter", "door": "105", "empId": 1000}

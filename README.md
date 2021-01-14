@@ -2,6 +2,7 @@
 
 ```py
 Run Application
+cd automateddoorsolution
 source venv/bin/activate
 pip install requirements.txt
 python app.py
